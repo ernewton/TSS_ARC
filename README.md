@@ -9,8 +9,10 @@ This repository hosts the compiled literature catalogs, cross-matching routines,
 │   ├── vsini_catalogs/      # As above but for vsini 
 │   ├── photometry_catalogs/ # As above but for photometry 
 │   ├── plots/               # Figures created are (supposed to be) saved here
-├── HPIC_TSS25.csv           # Tuchow et al. catalog that is the basis for cross-matching
-├── HPIC+TSS3.csv            # Resulting table
+├── HPIC/
+│   ├── HPIC_TSS25.csv       # Tuchow et al. catalog that is the basis for cross-matching
+│   ├── HPIC_full_2024.tsv.  # Additional info from Tuchow not included in the prior
+├── TSS_ARC.csv              # Resulting table
 ├── Cross-matching.ipynb     # Jupyter nb to perform cross-matching
 ├── Verification.ipynb       # Jupyter nb to verify cross-matching and compare literature catalogs
 ├── Plots.ipynb              # Jupyter nb to make plots included in published work
