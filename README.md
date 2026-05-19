@@ -1,6 +1,12 @@
 # Overview
 This repository hosts the compiled literature catalogs, cross-matching routines, and reproducibility scripts for the **Activity and Rotation Catalog (ARC)** presented in Fetherolf, Gupta, Newton et al. (forthcoming); these contents are outlined below. The ARC derives from work undertaken by the Habitable Worlds Observatory Target Stars and Systems working group. Literature catalogs are cross-matched against the Tiers 1-3 HWO target star lists as defined in [Tuchow et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025PASP..137j4402T/abstract). Stellar identifiers and parameter naming conventions are adopted from the HWO Preliminary Input Catalog (HPIC; [Tuchow et al. 2024](https://ui.adsabs.harvard.edu/abs/2024AJ....167..139T/abstract)).
 
+# Attribution
+
+If you make use of this catalog, please cite Fetherolf, Gupta, Newton et al. (forthcoming).
+
+# Contents
+
 The ARC inlcudes measurements for _v_ sin _i_, _S_-index, _R_'<sub>HK</sub>,  stellar rotation periods, stellar activity cycles, and photometric jitter. The steps to create the final output catalog (`TSS_ARC.csv`) can be reproduced by running the `Cross-matching.ipynb` notebook, which is provided here.
 
 ```
