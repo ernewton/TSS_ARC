@@ -3,7 +3,7 @@ This repository hosts the compiled literature catalogs, cross-matching routines,
 
 # Attribution
 
-If you make use of this catalog, please cite Fetherolf, Gupta, Newton et al. (submitted).
+If you make use of this catalog, please cite Fetherolf, Gupta, Newton et al. (submitted). The paper is available on ArXiv: http://arxiv.org/abs/2605.22618
 
 # Contents
 
